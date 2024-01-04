@@ -1,5 +1,7 @@
 # hyperamerica
 
+
+
 hyperamerica is an online shop which sells spirit wear fostering pragmatic futuristic thinking. all the designs and the work of hyperamerica will be open source. 
 
 ## notes
@@ -10,3 +12,8 @@ hyperamerica is an online shop which sells spirit wear fostering pragmatic futur
 - [ ] make X account 
 - [ ] make all designs 
 - [ ] after done contact tom and tell him that i created an online shop with shopify
+
+## roadmap 
+
+- [ ] replicate the rust code from https://github.com/zxqfl/flag with python
+    - [ ] create different variants of the flag 
